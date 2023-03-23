@@ -3,3 +3,133 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AsynchLong"]
+	path = AsynchLong
+	url = https://github.com/cran/AsynchLong
+	shallow = true
+	registered = true
+[submodule "ChangepointTesting"]
+	path = ChangepointTesting
+	url = https://github.com/cran/ChangepointTesting
+	shallow = true
+	registered = true
+[submodule "CONCUR"]
+	path = CONCUR
+	url = https://github.com/cran/CONCUR
+	shallow = true
+	registered = true
+[submodule "contTimeCausal"]
+	path = contTimeCausal
+	url = https://github.com/cran/contTimeCausal
+	shallow = true
+	registered = true
+[submodule "DOVE"]
+	path = DOVE
+	url = https://github.com/cran/DOVE
+	shallow = true
+	registered = true
+[submodule "dtrSurv"]
+	path = dtrSurv
+	url = https://github.com/cran/dtrSurv
+	shallow = true
+	registered = true
+[submodule "DynTxRegime"]
+	path = DynTxRegime
+	url = https://github.com/cran/DynTxRegime
+	shallow = true
+	registered = true
+[submodule "FastKM"]
+	path = FastKM
+	url = https://github.com/cran/FastKM
+	shallow = true
+	registered = true
+[submodule "GGMridge"]
+	path = GGMridge
+	url = https://github.com/cran/GGMridge
+	shallow = true
+	registered = true
+[submodule "highTtest"]
+	path = highTtest
+	url = https://github.com/cran/highTtest
+	shallow = true
+	registered = true
+[submodule "ICODS"]
+	path = ICODS
+	url = https://github.com/cran/ICODS
+	shallow = true
+	registered = true
+[submodule "iDOVE"]
+	path = iDOVE
+	url = https://github.com/cran/iDOVE
+	shallow = true
+	registered = true
+[submodule "JMdesign"]
+	path = JMdesign
+	url = https://github.com/cran/JMdesign
+	shallow = true
+	registered = true
+[submodule "modelObj"]
+	path = modelObj
+	url = https://github.com/cran/modelObj
+	shallow = true
+	registered = true
+[submodule "OTRselect"]
+	path = OTRselect
+	url = https://github.com/cran/OTRselect
+	shallow = true
+	registered = true
+[submodule "POINT"]
+	path = POINT
+	url = https://github.com/cran/POINT
+	shallow = true
+	registered = true
+[submodule "POSTm"]
+	path = POSTm
+	url = https://github.com/cran/POSTm
+	shallow = true
+	registered = true
+[submodule "ramsvm"]
+	path = ramsvm
+	url = https://github.com/cran/ramsvm
+	shallow = true
+	registered = true
+[submodule "rcage"]
+	path = rcage
+	url = https://github.com/cran/rcage
+	shallow = true
+	registered = true
+[submodule "roboBayes"]
+	path = roboBayes
+	url = https://github.com/cran/roboBayes
+	shallow = true
+	registered = true
+[submodule "subdetect"]
+	path = subdetect
+	url = https://github.com/cran/subdetect
+	shallow = true
+	registered = true
+[submodule "SurvLong"]
+	path = SurvLong
+	url = https://github.com/cran/SurvLong
+	shallow = true
+	registered = true
+[submodule "tLagInterim"]
+	path = tLagInterim
+	url = https://github.com/cran/tLagInterim
+	shallow = true
+	registered = true
+[submodule "tLagPropOdds"]
+	path = tLagPropOdds
+	url = https://github.com/cran/tLagPropOdds
+	shallow = true
+	registered = true
+[submodule "VEwaning"]
+	path = VEwaning
+	url = https://github.com/cran/VEwaning
+	shallow = true
+	registered = true
+[submodule "VEwaningVariant"]
+	path = VEwaningVariant
+	url = https://github.com/cran/VEwaningVariant
+	shallow = true
+	registered = true
