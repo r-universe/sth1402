@@ -93,11 +93,6 @@
 	url = https://github.com/cran/ramsvm
 	shallow = true
 	registered = true
-[submodule "rcage"]
-	path = rcage
-	url = https://github.com/cran/rcage
-	shallow = true
-	registered = true
 [submodule "roboBayes"]
 	path = roboBayes
 	url = https://github.com/cran/roboBayes
