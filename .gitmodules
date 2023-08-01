@@ -5,21 +5,15 @@
 [submodule "AsynchLong"]
 	path = AsynchLong
 	url = https://github.com/cran/AsynchLong
-[submodule "ChangepointTesting"]
-	path = ChangepointTesting
-	url = https://github.com/cran/ChangepointTesting
 [submodule "CONCUR"]
 	path = CONCUR
 	url = https://github.com/cran/CONCUR
-[submodule "contTimeCausal"]
-	path = contTimeCausal
-	url = https://github.com/cran/contTimeCausal
+[submodule "ChangepointTesting"]
+	path = ChangepointTesting
+	url = https://github.com/cran/ChangepointTesting
 [submodule "DOVE"]
 	path = DOVE
 	url = https://github.com/cran/DOVE
-[submodule "dtrSurv"]
-	path = dtrSurv
-	url = https://github.com/cran/dtrSurv
 [submodule "DynTxRegime"]
 	path = DynTxRegime
 	url = https://github.com/cran/DynTxRegime
@@ -29,21 +23,12 @@
 [submodule "GGMridge"]
 	path = GGMridge
 	url = https://github.com/cran/GGMridge
-[submodule "highTtest"]
-	path = highTtest
-	url = https://github.com/cran/highTtest
 [submodule "ICODS"]
 	path = ICODS
 	url = https://github.com/cran/ICODS
-[submodule "iDOVE"]
-	path = iDOVE
-	url = https://github.com/cran/iDOVE
 [submodule "JMdesign"]
 	path = JMdesign
 	url = https://github.com/cran/JMdesign
-[submodule "modelObj"]
-	path = modelObj
-	url = https://github.com/cran/modelObj
 [submodule "OTRselect"]
 	path = OTRselect
 	url = https://github.com/cran/OTRselect
@@ -53,6 +38,30 @@
 [submodule "POSTm"]
 	path = POSTm
 	url = https://github.com/cran/POSTm
+[submodule "SurvLong"]
+	path = SurvLong
+	url = https://github.com/cran/SurvLong
+[submodule "VEwaning"]
+	path = VEwaning
+	url = https://github.com/cran/VEwaning
+[submodule "VEwaningVariant"]
+	path = VEwaningVariant
+	url = https://github.com/cran/VEwaningVariant
+[submodule "contTimeCausal"]
+	path = contTimeCausal
+	url = https://github.com/cran/contTimeCausal
+[submodule "dtrSurv"]
+	path = dtrSurv
+	url = https://github.com/cran/dtrSurv
+[submodule "highTtest"]
+	path = highTtest
+	url = https://github.com/cran/highTtest
+[submodule "iDOVE"]
+	path = iDOVE
+	url = https://github.com/cran/iDOVE
+[submodule "modelObj"]
+	path = modelObj
+	url = https://github.com/cran/modelObj
 [submodule "ramsvm"]
 	path = ramsvm
 	url = https://github.com/cran/ramsvm
@@ -62,18 +71,9 @@
 [submodule "subdetect"]
 	path = subdetect
 	url = https://github.com/cran/subdetect
-[submodule "SurvLong"]
-	path = SurvLong
-	url = https://github.com/cran/SurvLong
 [submodule "tLagInterim"]
 	path = tLagInterim
 	url = https://github.com/cran/tLagInterim
 [submodule "tLagPropOdds"]
 	path = tLagPropOdds
 	url = https://github.com/cran/tLagPropOdds
-[submodule "VEwaning"]
-	path = VEwaning
-	url = https://github.com/cran/VEwaning
-[submodule "VEwaningVariant"]
-	path = VEwaningVariant
-	url = https://github.com/cran/VEwaningVariant
