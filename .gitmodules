@@ -14,6 +14,9 @@
 [submodule "DOVE"]
 	path = DOVE
 	url = https://github.com/cran/DOVE
+[submodule "DTRreg"]
+	path = DTRreg
+	url = https://github.com/cran/DTRreg
 [submodule "DynTxRegime"]
 	path = DynTxRegime
 	url = https://github.com/cran/DynTxRegime
