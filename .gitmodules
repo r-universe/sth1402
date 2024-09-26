@@ -50,6 +50,9 @@
 [submodule "VEwaningVariant"]
 	path = VEwaningVariant
 	url = https://github.com/cran/VEwaningVariant
+[submodule "baclava"]
+	path = baclava
+	url = https://github.com/cran/baclava
 [submodule "contTimeCausal"]
 	path = contTimeCausal
 	url = https://github.com/cran/contTimeCausal
