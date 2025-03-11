@@ -5,6 +5,9 @@
 [submodule "AsynchLong"]
 	path = AsynchLong
 	url = https://github.com/cran/AsynchLong
+[submodule "CNVreg"]
+	path = CNVreg
+	url = https://github.com/cran/CNVreg
 [submodule "CONCUR"]
 	path = CONCUR
 	url = https://github.com/cran/CONCUR
